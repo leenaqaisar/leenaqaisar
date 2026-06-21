@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Leena Qaisar
 
-<!--
-**leenaqaisar/leenaqaisar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS Software Engineering Student**
 
-Here are some ideas to get you started:
+💻 Passionate about Full-Stack Web Development and building software that solves real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- C++
+- Java
+- HTML
+- CSS
+- JavaScript
+- React
+- SQL
+- Git & GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- React
+- Node.js
+- Database Systems
+
+---
+
+## 📚 Academic Projects
+
+- BloodChain – Blood Inventory Management System
+- Library Management System
+- Student Management System
+
+---
+
+## 🎯 Goals
+
+- Secure a Software Engineering Internship
+- Improve Problem Solving
+- Build Real-World Projects
+- Contribute to Open Source
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/leenaqaisar
+- LinkedIn: *(Coming Soon)*
+
+⭐ Thanks for visiting my profile!
